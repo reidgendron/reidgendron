@@ -1,6 +1,4 @@
-# <center>Hi! I'm <i>Reid Gendron</i> 👋</center>
-## <center>Data Analyst | Software Developer</center>
-## <center><h5>B.Sc. Data Science</h5></center>
+# Hi there 👋
 <br>
 <p align="center">
   <a href="https://rgendron.pythonanywhere.com"><img src="https://img.shields.io/badge/Website-Visit-darkgreen"></a>
