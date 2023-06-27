@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 <br>
 <p align="center">
   <a href="https://rgendron.pythonanywhere.com"><img src="https://img.shields.io/badge/Website-Visit-darkgreen"></a>
