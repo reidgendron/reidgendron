@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
+
 ## 📝 About Me
 
 I am a passionate data scientist and software developer most proficent with Python and C++. I enjoy building scalable and efficient solutions to complex problems, with a focus on data.
