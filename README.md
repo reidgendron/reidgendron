@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<br>
+<h4 align="center">I'm Reid.</h4>
 <p align="center">
   <a href="https://rgendron.pythonanywhere.com"><img src="https://img.shields.io/badge/Website-Visit-darkgreen"></a>
   <a href="https://www.linkedin.com/in/rgendron012"><img src="https://img.shields.io/badge/LinkedIn-@rgendron012-informational"></a>
@@ -10,7 +10,7 @@
 
 ## 📝 About Me
 
-I am a passionate data scientist with proficiency in Python and C++. I enjoy building scalable and efficient solutions to complex problems, with a focus on data.
+I am a passionate data scientist and software developer most proficent with Python and C++. I enjoy building scalable and efficient solutions to complex problems, with a focus on data.
 
 ## 💻 Tech Stack
 
