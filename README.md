@@ -2,7 +2,7 @@
 
 ## 📝 About Me
 
-I am a passionate data scientist and software developer most proficent with Python and C++. I enjoy building scalable and efficient solutions to complex problems, with a focus on data.
+I'm Reid. I am a passionate data scientist and software developer most proficent with Python and C++. I enjoy building scalable and efficient solutions to complex problems, with a focus on data.
 
 ## 💻 Tech Stack
 
@@ -15,7 +15,7 @@ I am a passionate data scientist and software developer most proficent with Pyth
 
 ## 🌱 Continuous Learning
 
-I believe in continuous learning and always strive to stay up-to-date with the latest advancements in the fields of both data science and software development.
+I believe in continuous learning and always strive to stay up-to-date with the latest advancements in the fields of both data and software.
 
 ## 📫 Get in Touch
 
