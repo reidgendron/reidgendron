@@ -19,7 +19,7 @@ I believe in continuous learning and always strive to stay up-to-date with the l
 
 ## 📫 Get in Touch
 
-- Website: <a href="https://reidgendron.github.io">reidgendron.github.io</a>
+- Website: <a href="https://rgendron.ca">rgendron.ca</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/rgendron012/">@rgendron012</a>
 - GitHub: <a href="https://github.com/reidgendron">@reidgendron</a>
 - Email: <a href="mailto:reidgendron@outlook.com">Send message</a>
