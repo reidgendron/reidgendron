@@ -6,8 +6,8 @@ I'm Reid. I'm a passionate data scientist and software developer most proficent 
 
 ## 💻 Tech Stack
 
-- Programming Languages: Python, R, C/C++
-- Frameworks/Libraries: Flask, NumPy, Pandas, Matplotlib, Scikit-learn
+- Programming Languages: C/C++, Python, R, Swift
+- Frameworks/Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Flask
 - Databases: MySQL, SQLite, MongoDB
 - Tools: Git, Jupyter
 - Other: HTML, CSS, JavaScript
