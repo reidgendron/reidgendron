@@ -2,20 +2,20 @@
 
 ## 📝 About Me
 
-I'm Reid. I'm a passionate data scientist and software developer most proficent with Python and C++. I enjoy building scalable and efficient solutions to complex problems, with a focus on data.
+I'm Reid. I'm a passionate data scientist and software developer most proficent in Python and C++. I enjoy building scalable and efficient solutions to complex problems, with a focus on data.
 
 ## 💻 Tech Stack
 
-- Programming Languages: C/C++, Python, R, Swift
+- Programming Languages: C/C++, Python, R, Swift, JavaScript
 - Frameworks/Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Flask
-- Databases: MySQL, SQLite, MongoDB
+- Databases: SQL Server, SQLite, MySQL, MongoDB
 - Tools: Git, Jupyter
-- Other: HTML, CSS, JavaScript
+- Other: HTML, CSS
 
 
 ## 🌱 Continuous Learning
 
-I believe in continuous learning and always strive to stay up-to-date with the latest advancements in the fields of both data and software.
+I believe in continuous learning and always strive to stay on top of the latest advancements in the fields of both data and software.
 
 ## 📫 Get in Touch
 
